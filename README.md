@@ -193,3 +193,10 @@ Y abre:
 ## 11. Licencia
 
 Proyecto educativo para el Entregable 4.
+
+
+## 12. Evidencias:
+
+![GitHub Actions OK](Evidencias/Git_OK.png) 
+![Docker Hub Tags OK](Evidencias/Docker_OK.png) 
+![Navegador OK](Evidencias/Nav_OK.png)
