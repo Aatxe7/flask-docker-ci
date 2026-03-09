@@ -8,6 +8,5 @@ venv/
 .env
 .git/
 .gitignore
-pytest_cache/
-tests/
+.pytest_cache/
 *.zip
